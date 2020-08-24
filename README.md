@@ -67,6 +67,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+### `npm install firebase
+
+### firebase init
+
+### firebase deploy `
+
 ### Firebase PWA React App
 
 ### `https://notificationapp-9ae0a.web.app/`
